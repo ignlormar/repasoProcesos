@@ -1,0 +1,430 @@
+     1	sudo apt install gnome-desktop
+     2	sudo apt uuodate
+     3	sudo apt update
+     4	sudo apt upgrade
+     5	sudo apt install gnome-desktop
+     6	sudo apt install ubuntu-desktop
+     7	reboot
+     8	sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
+     9	sudo systemctl restart mysql
+    10	sudo systemctl status mysql
+    11	cd /var/www/html/+
+    12	cd /var/www/html/
+    13	ls -l
+    14	sudo chown pepe:pepe php
+    15	ls
+    16	ls -l
+    17	cd php
+    18	ls -l
+    19	sudo chown pepe:pepe *
+    20	ls -l
+    21	cd /var/www/html/php/
+    22	ls
+    23	scp * pepe@192.168.1.108:/hoem/pepe/Desktop
+    24	scp * pepe@192.168.1.108:/home/pepe/Desktop/Videoclub
+    25	exit
+    26	ls
+    27	cd html/php/
+    28	ls
+    29	ls -l
+    30	cd html
+    31	ls -l
+    32	cd php
+    33	ls
+    34	ls -l
+    35	ip a
+    36	ping 192.168.64.14
+    37	ip a
+    38	cd /var/www/html/php/
+    39	sudo mysql
+    40	ip a
+    41	cd
+    42	cd Docq
+    43	cd Documentos/
+    44	ls
+    45	touch file{1..10}.php
+    46	ls
+    47	tar -cpvzf "/home/pepe/Escritorio/backupcompleto_`date +%d%m%Y`.tgz" /home/pepe/Documentos/
+    48	cd ..
+    49	cd Escritorio/
+    50	ls
+    51	tar -cpvzf /mnt/incremental/copia_inc_`date +%d%m%Y`.tgz" -g /home/usuario/history/backup.snap /home/usuario/docuemnetos/*
+    52	tar -cpvzf /home/pepe/Escritorio/copia_inc_`date +%d%m%Y`.tgz" -g /home/pepe/history/backup.snap /home/pepe/Documentos/*
+    53	tar -cpvzf /home/pepe/Escritorio/copia_inc_`date +%d%m%Y`.tgz -g /home/pepe/history/backup.snap /home/pepe/Documentos/*
+    54	cd
+    55	ls
+    56	pwd
+    57	tar -cpvzf /home/pepe/Escritorio/copia_inc_`date +%d%m%Y`.tgz -g /home/pepe/Escritorio/backup.snap /home/pepe/Documentos/*
+    58	cd Documentos/
+    59	touch file{1..3}.txt
+    60	tar -cpvzf /home/pepe/Escritorio/copia_inc_`date +%d%m%Y`.tgz -g /home/pepe/Escritorio/backup.snap /home/pepe/Documentos/*
+    61	clear
+    62	cd 
+    63	cd Escritorio/
+    64	ls
+    65	tar -tvvGf i.tgz
+    66	tar -tvvGf copia_inc_27112023.tgz 
+    67	tar -tvvGf backupcompleto_06112023.tgz 
+    68	clear
+    69	tar -tvvGf backupcompleto_06112023.tgz 
+    70	tar -tvvGf copia_inc_27112023.tgz 
+    71	tar -tvGf copia_inc_27112023.tgz 
+    72	tar -tvf copia_inc_27112023.tgz 
+    73	tar -tv copia_inc_27112023.tgz 
+    74	tar -tf copia_inc_27112023.tgz 
+    75	tar -xzf backupcompleto_06112023.tgz -G
+    76	ls ../Documentos/
+    77	tar -xzf copia_inc_27112023.tgz -G
+    78	cd ..
+    79	cd Documentos/
+    80	ls
+    81	sudo nano script2.sh
+    82	sudo chmod 777 script2.sh 
+    83	./script2.sh 
+    84	ls
+    85	cd extracted/
+    86	ls
+    87	cd extracted/cd ..
+    88	cd ..
+    89	sudo nano script2.sh
+    90	./script2.sh 
+    91	cd extracted/
+    92	ls
+    93	cd Descragas
+    94	cd Descargas/
+    95	ls
+    96	sudo nano script.sh
+    97	ls
+    98	sudo chmod 777 script.sh 
+    99	./script.sh 
+   100	ls
+   101	cd extracted/
+   102	ls
+   103	rm *
+   104	cd ..
+   105	./script.sh 
+   106	sudo nano script.sh 
+   107	sudo nano script.sh ls
+   108	cd extracted/
+   109	ls
+   110	unzip imagen28.zip 
+   111	cd ..
+   112	ls
+   113	sudo chmod 777 xampp-linux-x64-8.2.4-0-installer.run
+   114	ls
+   115	./xampp-linux-x64-8.2.4-0-installer.run 
+   116	sudo ./xampp-linux-x64-8.2.4-0-installer.run 
+   117	xampp-linux-x64-8.2.4-0-installer.run 
+   118	./xampp-linux-x64-8.2.4-0-installer.run 
+   119	clear
+   120	sudo apt install lamp-server
+   121	sudo apt update
+   122	sudo apt lis --upgradable
+   123	sudo apt install lamp-server
+   124	sudo apt install xampp
+   125	sudo ./xampp-linux-x64-8.2.4-0-installer.run 
+   126	sudo su
+   127	clear
+   128	ls
+   129	cd /usr/bin
+   130	ls
+   131	ls mo*
+   132	ls m*
+   133	ls
+   134	java --version
+   135	sudo apt install default-jre -y
+   136	java --version
+   137	sudo snap
+   138	sudo snap install --classic eclipse
+   139	cd /usr/bin/
+   140	ls
+   141	ls t*
+   142	test
+   143	notepad
+   144	ps
+   145	top
+   146	termimal
+   147	console
+   148	cd
+   149	date
+   150	konsole
+   151	bash
+   152	sh
+   153	ps
+   154	tree
+   155	lstree
+   156	lscpu
+   157	pstree
+   158	ps
+   159	ps -e
+   160	ps -ef
+   161	ps
+   162	ps -e
+   163	top
+   164	ps
+   165	ps -f
+   166	clear
+   167	ps
+   168	ps-f
+   169	clear
+   170	ps 
+   171	ps -f
+   172	firefox
+   173	ls
+   174	cd eclipse-workspace/
+   175	ls
+   176	cd ProyectoPSP/
+   177	ls
+   178	cd bin/
+   179	ls
+   180	cd
+   181	ls
+   182	cd /home/pepe/eclipse-workspace/ProyectoPSP/bin/
+   183	java Ejemplo1
+   184	ls
+   185	java Ejemplo1 
+   186	java Ej1 
+   187	ps -f
+   188	java Ej1
+   189	java Ej1.java
+   190	java Ej1.class
+   191	java Ej1
+   192	java --version
+   193	javac --release 11 Ej1.java
+   194	java -version
+   195	update java
+   196	sudo apt update java
+   197	sudo apt install default-jdk 
+   198	java Ej1
+   199	sudo apt install default-jdk 
+   200	rpm -ivh jre-8u411-linux-i586.rpm 
+   201	sudo apt install rpm
+   202	rpm -ivh jre-8u411-linux-i586.rpm 
+   203	tar zxvf jre-8u411-linux-i586.tar.gz 
+   204	ls
+   205	rm jre-8u411-linux-i586.tar.gz 
+   206	sudo apt update
+   207	sudo apt list upgrade-system 
+   208	sudo apt list upgradable
+   209	sudo apt upgrade
+   210	java -version
+   211	javac -version
+   212	sudo apt install openjdk-11-jdk
+   213	javac -version
+   214	java -version
+   215	sudo apt install default-jre
+   216	java -version
+   217	javac -version
+   218	sudo apt install default-jdk
+   219	javac -version
+   220	java -version
+   221	java
+   222	java Ej1
+   223	cd eclipse-workspace/
+   224	ls
+   225	cd ProyectoPSP/bin/
+   226	ls
+   227	java Ej1
+   228	cd ..
+   229	cd src/
+   230	lss
+   231	ls
+   232	java Ej1
+   233	cd ..
+   234	cd bin/
+   235	ks
+   236	ls
+   237	sudo java Ej1ç
+   238	sudo java Ej1
+   239	java -version
+   240	clear
+   241	javac --version
+   242	javac --release 8 Ej1
+   243	java
+   244	java Ej1
+   245	cd /usr/java
+   246	java Ej1
+   247	ls
+   248	java saludo
+   249	java Saludo
+   250	kill 152770
+   251	sudo ps
+   252	top
+   253	time
+   254	timeout
+   255	times
+   256	sudo apt install gimp
+   257	LANGUAGE=es gimp
+   258	LANG=es gimp
+   259	LANGUAGE=es gimp-2.10 -n
+   260	cd /usr/bin
+   261	ls
+   262	cd ~/.gimp-2.8/gimprc~
+   263	cd
+   264	ls
+   265	pwd
+   266	cd ~
+   267	pwd
+   268	ls
+   269	ls -al
+   270	lang
+   271	cd .config/
+   272	ls
+   273	cd GIMP/
+   274	ls
+   275	cd 2.10
+   276	ls
+   277	cd Descargas/
+   278	ls
+   279	sudo mv BADABB__.TTF /home/pepe/.config/GIMP/2.10/fonts/
+   280	cd .config
+   281	cd GIMP/
+   282	cd 2.10/
+   283	ls
+   284	locale
+   285	LANG=es gimp
+   286	LANGUAGE=es gimp-2.10 -n 
+   287	sudo apt install canberra-gtk-module
+   288	sudo apt install libcanberra-gtk-module
+   289	LANGUAGE=es gimp-2.10 -n 
+   290	sudo snap refresh --candidate gimp
+   291	sudo apt update
+   292	sudo apt install pandoc
+   293	pandoc
+   294	pandoc fitxerEntrada-o fitxerEixida
+   295	pandoc filein.md -o fitxerEixida.pdf
+   296	ls
+   297	pandoc filein.md -o fitxerEixida.html
+   298	ls
+   299	pandoc filein.md -o fitxerEixida.html -s--metadata title="Pàgina de prova"
+   300	pandoc filein.md -o fitxerEixida.html -s --metadata title="Pàgina de prova"
+   301	pandoc filein.md -o fitxerEixida.pdf
+   302	sudo apt install pdflatex
+   303	sudo apt install latex
+   304	sudo apt install texlive-latex-base
+   305	sudo apt install texlive-xetex
+   306	sudo killall apt apt-get
+   307	sudo apt install texlive-xetex
+   308	sudo rm /var/lib/apt/lists/lock
+   309	sudo apt install texlive-xetex
+   310	reboot
+   311	halt
+   312	sudo apt install texlive-xetex
+   313	sudo apt install texlive-latex-base
+   314	pandoc filein.md -o fitxerEixida.pdf
+   315	sudo apt install texlive-fonts-extra
+   316	sudo apt update
+   317	sudo apt list upgradable
+   318	sudo apt update pip
+   319	sudo apt install pip
+   320	cat .bash_history 
+   321	su root
+   322	$ pipx install pandoc-latex-environment
+   323	sudo  pipx install pandoc-latex-environment
+   324	sudo  pip install pandoc-latex-environment
+   325	pippnadoc
+   326	pippandoc
+   327	pypandoc
+   328	sudo  pip3 install pandoc-latex-environment
+   329	brew install pandoc
+   330	sudo apt install brew
+   331	cd
+   332	ls -al /usr/local/lib/python3.10/dist-packages
+   333	sudo chown pepe:pepe  /usr/local/lib/python3.10/dist-packages
+   334	ls -al /usr/local/lib/python3.10/dist-packages
+   335	sudo chown pepe:pepe -r /usr/local/lib/python3.10/
+   336	sudo chown -r pepe:pepe /usr/local/lib/python3.10/
+   337	sudo chown pepe:pepe /usr/local/lib/python3.10/
+   338	ls -al /usr/local/lib/python3.10/dist-packages
+   339	ls -al /usr/local/lib/python3.10
+   340	sudo chown -R pepe:pepe /usr/local/lib/python3.10/
+   341	ls -al /usr/local/lib/python3.10
+   342	ls -al /usr/local/lib/python3.10/dist-packages
+   343	sudo  pip3 install pandoc-latex-environment
+   344	pandoc filein.md fileout.pdf  --from markdown --template ~/pandoc-latex-template-master/eisvogel.tex --listings -N --toc --variable urlcolor=cyan --filter pandoc-latex-environment
+   345	pandoc filein.md fileout.pdf  --from markdown --template ~/Document/pandoc-latex-template-master/eisvogel.tex --listings -N --toc --variable urlcolor=cyan --filter pandoc-latex-environment
+   346	pandoc filein.md -o fileout.pdf  --from markdown --template ~/Document/pandoc-latex-template-master/eisvogel.tex --listings -N --toc --variable urlcolor=cyan --filter pandoc-latex-environment
+   347	pandoc filein.md -o fileout.pdf  --from markdown --template ~/Documentos/pandoc-latex-template-master/eisvogel.tex --listings -N --toc --variable urlcolor=cyan --filter pandoc-latex-environment
+   348	pip install -r requirements.txt
+   349	sudo pip install -r requirements.txt
+   350	python3 --version
+   351	pipx
+   352	sudo apt install pipx
+   353	pipx install pandoc-latex-environment
+   354	pipx upgrade pandoc-latex-environment
+   355	pipx install pandocfilters
+   356	pip install pandoc-latex-environment
+   357	sudo pip install pandoc-extract-code pandocfilters pandoc-latex-environment
+   358	pip install pandoc-extract-code pandocfilters pandoc-latex-environment
+   359	pandoc filein.md -o fileout.pdf  --from markdown --template ~/Documentos/pandoc-latex-template-master/eisvogel.tex --listings -N --toc --variable urlcolor=cyan --filter pandoc-latex-environment
+   360	pandoc filein.md -o fileout.pdf  --from markdown --template ~/Documentos/pandoc-latex-template-master/eisvogel.tex  --filter pandoc-latex-environment
+   361	ls
+   362	ps
+   363	ps -ef
+   364	top
+   365	java Principal
+   366	ls
+   367	sudo apt update java
+   368	sudo apt update
+   369	sudo apt list upgrdable
+   370	sudo apt install default-jre
+   371	java Principal
+   372	sudo apt install default-jdk
+   373	apt search openjdk
+   374	sudo apt install openjdk-11-jdk
+   375	java Principal
+   376	ip a
+   377	java
+   378	ls
+   379	java Servidor.java
+   380	java Cliente.java
+   381	ls
+   382	java Cliente.java
+   383	ip a
+   384	java Cliente.java
+   385	ls
+   386	java Servidor.java
+   387	ls
+   388	java Servidor.java
+   389	javac Serve.java 
+   390	javac Persona.java.java 
+   391	javac Persona.java
+   392	javac Serve.java 
+   393	javac Persona.java
+   394	javac Serve.java 
+   395	javac Persona.java
+   396	javac Serve.java 
+   397	java Serve.java 
+   398	javac Serve.java 
+   399	java Serve.java 
+   400	javac Serve.java 
+   401	java Serve.java 
+   402	ip a
+   403	java Servidor.java
+   404	javac Persona.java Servidor.java
+   405	java Servidor.java
+   406	ls
+   407	java Servidor
+   408	ls
+   409	java Servidor.java
+   410	ls
+   411	java TCPObjetoServidor1.java
+   412	java TCPObjetoCliente1.java
+   413	ls
+   414	cd ..
+   415	cd TCP
+   416	ls
+   417	java Servidor.java
+   418	ls
+   419	cd ..
+   420	ls
+   421	cd eclipse-workspace/
+   422	ls
+   423	cd cd ..
+   424	java Cliente.java
+   425	ls
+   426	ip a
+   427	ls -l
+   428	ls -a
+   429	cat .bash_history 
+   430	cat .bash_history >historico.txt
