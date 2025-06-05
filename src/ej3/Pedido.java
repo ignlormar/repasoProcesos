@@ -3,45 +3,31 @@ package ej3;
 import java.io.Serializable;
 
 public class Pedido implements Serializable {
-
     static final long SerialVersionUID = 1L;
-
     String burger;
-    String side;
-    String bebida;
+    String company;
+    String refresco;
 
-    public Pedido(String burger,String side, String bebida){
+    public Pedido(String burger, String company, String refresco) {
         this.burger = burger;
-        this.side = side;
-        this.bebida = bebida;
+        this.company = company;
+        this.refresco = refresco;
     }
 
     public String getBurger() {
         return burger;
     }
 
-    public String getSide() {
-        return side;
+    public String getCompany() {
+        return company;
     }
 
-    public String getBebida() {
-        return bebida;
+    public String getRefresco() {
+        return refresco;
     }
 
     @Override
     public String toString() {
-        String resultado;
-        
-        if (side.isEmpty() && bebida.isEmpty()){
-            resultado = ("Tu pedido es " + burger);
-        } else if (bebida.isEmpty()) {
-            
-        }
-
-        return "Pedido{" +
-                "burger='" + burger + '\'' +
-                ", side='" + side + '\'' +
-                ", bebida='" + bebida + '\'' +
-                '}';
+        return "Tu pedido es: " + burger + " acompanyado con " + company + " y regado con " + refresco;
     }
 }
